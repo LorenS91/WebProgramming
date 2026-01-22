@@ -11,3 +11,4 @@
 <a href=https://www.tri-c.edu/IT></a>
 </p>
 <img src=https://www.tri-c.edu/news-and-events/media-resources/images/tri-c-logo.jpg"/>
+</body>
