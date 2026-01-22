@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+<html lang="en-US">
+<title>My First HTML Page</title>
+</head>
+<body>
+<meta charset="utf-8" />
+<h1>Welcome!</h1>
+<p>I am learning how to create an HTML page from scratch using basic HTML elements.</p>
+<p><strong>Tri-C</strong>
+<a href=https://www.tri-c.edu/IT></a>
+</p>
+<img src=https://www.tri-c.edu/news-and-events/media-resources/images/tri-c-logo.jpg"/>
